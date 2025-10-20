@@ -62,8 +62,8 @@ This project performs:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SNEH-17PATEL/netflix-data-analysis.git
-cd netflix-data-analysis
+git clone https://github.com/SNEH-17PATEL/Netflix-Data-Analysis.git
+cd Netflix-Data-Analysis
 ```
 
 ### 2. Install Dependencies
