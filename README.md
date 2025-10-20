@@ -73,8 +73,3 @@ pip install pandas matplotlib
 
 ### 3. Add Dataset
 Place the `netflix_titles.csv` file in the project directory.
-
-### 4. Run the Script
-```bash
-python netflix_data_analysis.py
-```
